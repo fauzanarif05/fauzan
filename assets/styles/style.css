@@ -1,0 +1,12 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.div,
+h4 {
+  font-family: "Playfair Display", serif;
+}
+
+.collapse ul li:hover {
+  border-bottom: 3px solid #000000;
+}
